@@ -246,7 +246,7 @@ button:hover {
   fill: var(--animation-color);
   transition: fill 0.3s linear;
 }
-/* FOOOTER */
+/* FOOOOOTER */
 .dialog::backdrop {
   background-color: rgba(0, 0, 0, 0.5);
 }
