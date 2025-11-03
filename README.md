@@ -1,1 +1,1 @@
-https://github.com/SashkaAdidas/zakrivayuschiy-teg-f/actions/runs/19049223948
+https://sashkaadidas.github.io/zakrivayuschiy-teg-f/
