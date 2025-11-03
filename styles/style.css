@@ -22,7 +22,6 @@
   background-attachment: fixed;
   margin-block-start: 100px;
 }
-
 .header {
   display: flex;
   align-items: center;
@@ -36,14 +35,12 @@
   margin-block-start: 100px;
   margin-block-end: 100px;
 }
-
 .header__logo {
   font-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
   line-height: 1;
   text-decoration: none;
   margin-block-end: 23px;
 }
-
 .header__title {
   font-size: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
   line-height: 1;
@@ -65,7 +62,6 @@
   line-height: 1.2;
   letter-spacing: 0;
 }
-/* картинки */
 .card__image-container {
   position: relative;
   border-block-start: var(--main-border);
@@ -250,7 +246,7 @@ button:hover {
   fill: var(--animation-color);
   transition: fill 0.3s linear;
 }
-/* FOOOOTER */
+/* FOOOTER */
 .dialog::backdrop {
   background-color: rgba(0, 0, 0, 0.5);
 }
@@ -315,7 +311,6 @@ button:hover {
   color: var(--bg-color);
   fill: var(--bg-color);
 }
-
 @media (width <= 375px) {
   .footer__button {
     flex-direction: column;
