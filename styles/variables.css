@@ -19,12 +19,7 @@
 
   --main-border: 2px solid currentColor;
 
-  --stroke-color: rgba(
-    255,
-    255,
-    255,
-    0.5
-  );
+  --stroke-color: rgba(255, 255, 255, 0.5);
 
-  --animation-color: rgba(255, 0, 0, 1); 
+  --animation-color: rgba(255, 0, 0, 1);
 }
