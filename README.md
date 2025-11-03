@@ -1,1 +1,2 @@
-https://sashkaadidas.github.io/zakrivayuschiy-teg-f/
+https://github.com/sashkaadidas/zakrivayuschiy-teg-f 
+ 
