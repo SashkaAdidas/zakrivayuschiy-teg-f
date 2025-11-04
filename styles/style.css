@@ -100,28 +100,28 @@
   }
 }
 /* ФИЛЬТРЫ */
-.card__filter-start {
+.card__filter-blueish {
   filter: hue-rotate(245deg);
 }
-.card__filter-go {
+.card__filter-sepia {
   filter: sepia(60%);
 }
-.card__filter-can {
+.card__filter-blurredAndHighContrast {
   filter: blur(2px) contrast(150%);
 }
-.card__filter-aspiration {
+.card__filter-highlySaturated {
   filter: saturate(160%);
 }
-.card__filter-frends {
+.card__filter-highContrast {
   filter: contrast(250%);
 }
-.card__filter-strategy {
+.card__filter-highContrastOpaque {
   filter: contrast(200%) opacity(90%);
 }
-.card__filter-despair {
+.card__filter-purpleSaturated {
   filter: hue-rotate(300deg) saturate(150%);
 }
-.card__filter-verstka {
+.card__filter-mutedContrast {
   filter: brightness(0.9) contrast(110%) saturate(60%);
 }
 /* ОПИСАНИЕ КАРТОЧКИ ПОД КАРТИНКОЙ */
